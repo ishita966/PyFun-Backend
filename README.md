@@ -5,8 +5,8 @@ This is a backend for Python education for YunOSC written in Python.
 Frontend is written in [Vue2](https://vuejs.org/), please reference at [here](https://github.com/YunOSC/PyFun-Frontend).
 
 # Contributing
-If you want to add more stages or lessons.
-Reference at [here](https://github.com/YunOSC/PyFun-Backend/blob/master/.github/CONTRIBUTING.md).
+If you want to add more stages or lessons,
+reference at [here](https://github.com/YunOSC/PyFun-Backend/blob/master/.github/CONTRIBUTING.md).
 
-If you want to contribute to the code itself.
-Just fork and send PRs.
+If you want to contribute to the code itself,
+just fork and send PRs.
